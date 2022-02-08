@@ -1,4 +1,4 @@
-# practice-animationcss
+# practice-css-animation
 Repository created to get some practice with CSS animations
 
 ### Funcionalidades
